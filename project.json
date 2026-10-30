@@ -1,0 +1,22 @@
+{
+  "name": "gta-5-mod-menu",
+  "displayName": "GTA 5 Mod Menu",
+  "programType": "mod-menu",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Module groups",
+    "Keybinds",
+    "Player presets"
+  ],
+  "topics": [
+    "gta-5-mod-menu",
+    "gta-5-tools",
+    "gta-5-menu",
+    "gta-5-settings",
+    "gta-5-configs",
+    "gta-5-module-groups",
+    "gta-5-keybinds"
+  ]
+}
